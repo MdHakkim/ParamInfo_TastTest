@@ -1,0 +1,90 @@
+.imageSize{
+    width: 80px;
+    height: 60px;
+}
+.dev-ulList li{
+    border: none !important;
+    
+}
+.dev-ulList li a{
+    color: rgb(114, 113, 113);
+}
+.dev-font-sz{
+    font-size: 9px;
+}
+.dev-col1{
+    color: rgb(114, 113, 113) !important;
+}
+.dev-bgcolor{
+    background-color:#1C8DF2;
+    
+}
+.dev-unit{
+    color: rgb(158, 158, 238);
+    font-size: 9px;
+}
+.dev-bgcolor .dev-color-tx {
+    color: white !important;
+}
+.border-primary{
+    border-color: rgb(114, 113, 113) !important;
+}
+.border-primary .card-body{
+    color: rgb(114, 113, 113) !important;
+}
+.dev-col2{
+    color: red !important;
+}
+.dev-icon_ar{
+    margin-left: 12px;
+    width: 100px;
+    display: inline-block;
+}
+.dev-icon:hover{
+    text-decoration: none;
+}
+.dev-icon_ar:hover{
+    text-decoration: none;
+}
+.dev-span-left{
+    margin-left: 80px;
+}
+.dev-tile{
+    padding: 12px;
+}
+.dev-card{
+    padding: 30px;
+}
+.dev-slip{
+    display: flex;
+}
+.dev-slit-2{
+    width: 30%;
+}
+.dev-slit-1{
+    width: 70%;
+}
+.dev-pt{
+    padding-top: 3em;
+}
+.dev-pb{
+    padding-bottom: 2.5em;
+}
+.dev-scrollable{
+    overflow-y: scroll;
+    max-height: 25em;
+}
+.dev-icon-mg i{
+    font-size: 10px;
+}
+.dev-icon{
+    padding: 4px 4px 6px 8px;
+    border-radius: 14px;
+    width: 100%;
+    color: blue;
+    display: inline-block;
+}
+.active{
+    background-color: #98caff;
+    color: blue !important;
+}
